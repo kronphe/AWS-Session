@@ -1,5 +1,5 @@
 # Deploying a Node Js Application on AWS EC2
-
+Link for live deployment: https://www.youtube.com/watch?v=NLmF64KdLN0&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=12
 ### Testing the project locally
 
 1. Clone this project
